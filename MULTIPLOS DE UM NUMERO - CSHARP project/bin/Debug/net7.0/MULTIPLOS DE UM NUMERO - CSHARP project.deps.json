@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MULTIPLOS DE UM NUMERO - CSHARP project/1.0.0": {
+        "runtime": {
+          "MULTIPLOS DE UM NUMERO - CSHARP project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MULTIPLOS DE UM NUMERO - CSHARP project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

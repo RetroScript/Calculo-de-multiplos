@@ -1,0 +1,14 @@
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\bin\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.exe
+c:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\bin\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.deps.json
+c:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\bin\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.runtimeconfig.json
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\bin\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\bin\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.pdb
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.AssemblyInfoInputs.cache
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.AssemblyInfo.cs
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\refint\MULTIPLOS DE UM NUMERO - CSHARP project.dll
+C:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.pdb
+c:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\MULTIPLOS DE UM NUMERO - CSHARP project.genruntimeconfig.cache
+c:\Users\COMPUTADOR\Documents\MULTIPLOS DE UM NUMERO - CSHARP project\obj\Debug\net7.0\ref\MULTIPLOS DE UM NUMERO - CSHARP project.dll
