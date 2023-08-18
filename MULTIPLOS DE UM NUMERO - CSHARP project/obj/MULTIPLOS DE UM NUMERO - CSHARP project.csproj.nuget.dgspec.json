@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPUTADOR\\Documents\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj": {}
+    "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Calculo-de-multiplos\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPUTADOR\\Documents\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj": {
+    "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Calculo-de-multiplos\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPUTADOR\\Documents\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj",
+        "projectUniqueName": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Calculo-de-multiplos\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj",
         "projectName": "MULTIPLOS DE UM NUMERO - CSHARP project",
-        "projectPath": "C:\\Users\\COMPUTADOR\\Documents\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj",
+        "projectPath": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Calculo-de-multiplos\\MULTIPLOS DE UM NUMERO - CSHARP project\\MULTIPLOS DE UM NUMERO - CSHARP project.csproj",
         "packagesPath": "C:\\Users\\COMPUTADOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPUTADOR\\Documents\\MULTIPLOS DE UM NUMERO - CSHARP project\\obj\\",
+        "outputPath": "c:\\Users\\COMPUTADOR\\Documents\\GitHub\\Calculo-de-multiplos\\MULTIPLOS DE UM NUMERO - CSHARP project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COMPUTADOR\\AppData\\Roaming\\NuGet\\NuGet.Config"
